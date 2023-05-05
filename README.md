@@ -1,5 +1,7 @@
 # Getting-and-Cleaning-Data-Project
 
+Here is how the run_analysis.R script works and waht it does:
+
 1. Loads the dplyr library.
 2. Sets the filename variable to the name of the zip file to download.
 3. Checks if the filename already exists. If not, it downloads it from the given URL using the download.file function.
